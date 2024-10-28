@@ -1,12 +1,13 @@
 ---
-title: Custom AI and Communication Solutions
+title: Custom Web, AI, and Communication Solutions
 ---
 
-We specialize in building profitable, customized AI web applications that revolutionize how businesses communicate and operate.  
+We are intelligent staffing systems - we specialize in building profitable, customized web applications that revolutionize how businesses communicate and operate.  We can build anything you can imagine - from communication platforms like Skype, to AI integrations and tools, to compliance-based systems with external partners. 
 
-- **Own Your AI**: Gain full control over your custom AI solutions, tailored to your specific needs.
-- **Reduce Long-term Costs**: Eliminate ongoing SaaS fees with a one-time investment in your own system.
-- **Ensure Data Privacy**: Keep your sensitive information within your own infrastructure.
+- **Customized Solutions**: get exactly what you need, written from scratch, yet matching the look, functionality, and security you expect from modern web applications.
+- **Own Your software**: Gain full control over your custom solutions, tailored to your specific needs, and with all the parts under your control.  
+- **Reduce Long-term Costs**: Eliminate ongoing SaaS fees with a one-time investment in your own system.  IPS enables you to manage your own software, or to lets us continue to manage it for you for a continued fee. 
+- **Ensure Data Privacy**: Keep your sensitive information within your own infrastructure.  Own your own data and have peace in robust backup solution. 
 - **Scale Seamlessly**: Grow your system alongside your business without limitations.
 
 [[Revolutionize Your Industry with AI-Powered Communication Solutions]]
